@@ -63,7 +63,7 @@ You may also see any lint errors in the console.
 
 ## Author
 
--[@PSVarshiga](https://github.com/VarshiRevo/VarshiRevo)
+-[@PSVarshiga](https://github.com/PSVarshiga)
 
 ## Support
 
